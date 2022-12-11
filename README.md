@@ -1,1 +1,1 @@
-https://NinaSher.github.io/rsschool-cv/cvgit add
+https://NinaSher.github.io/rsschool-cv/cv
