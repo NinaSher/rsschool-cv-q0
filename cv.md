@@ -12,6 +12,7 @@ I am 38 years old. I graduated from a web designer course. I am studying for a f
 * HTML
 * CSS
 * JS
+* Vs Code
 ## Code Example
 ```
 function multiply(a, b){
