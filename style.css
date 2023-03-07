@@ -98,10 +98,8 @@ main{
 	display: -webkit-inline-flex;
 	justify-content: center
 }
-.image{
-	width: 200px;
-	border-radius: 0.5cm;
-	padding: 20px;
+.img{
+	border-style: none;
 }
 
 header{
